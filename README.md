@@ -1,12 +1,20 @@
-- Hi, I’m @daro1202,from Japan. I'm working for Shikuko University and have 5+ development experiences.
-- I graduated Shikoku University and majored Computer Science.
-- I’m interested in building new Web Technologies and products, and I am fluent in classics like C/C++, Javascript, node and Python.
-- I'm a FULL Stack expert. I can work with any library or framework like Laravel, React.js, Next.js, Vue.js, Django
-- I also have enough experience in Blockchain technology by using Solidity, such as NFT and Smart Contract.
-- I’m currently learning about AI and MCU.
-- I’m always looking for the new project to be able to improve my skill and learn more technologies. 
-- Feel free to connect with me.
-  My address is daro1202@outlook.com
+Hi👋 , I’m @daro1202, Full Stack Developer witb 5+ years of proven experiences, Project Manager 🔥. Win-Win is my main working style and it shows how I work with clients. I can help Blockchain Startup companies as a developer.
+
+⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications
+
+⚡ Building responsive website front end using React / Vue / Next / Nuxt
+
+⚡ Creating application backend in Node, Express, Laravel & Django
+
+⚡ Develop highly secure / qualified crosschain applications
+
+⚡ Develop DAO, Defi / NFT projects and Marketplaces
+
+⚡ Multichain Support: Ethereum, Binance Smart Chain, Polygon, Kucoin, Algoland, Solana...
+
+🌱 I’m currently learning AI & MCU.
+
+💞️ Always Learning is fun.
 
 <!---
 daro1202/daro1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
