@@ -10,8 +10,6 @@ Hi👋 , I’m @daro1202, Full Stack Developer witb 5+ years of proven experienc
 
 ⚡ Develop DAO, Defi / NFT projects and Marketplaces
 
-⚡ Multichain Support: Ethereum, Binance Smart Chain, Polygon, Kucoin, Algoland, Solana...
-
 🌱 I’m currently learning AI & MCU.
 
 💞️ Always Learning is fun.
