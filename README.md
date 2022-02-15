@@ -14,6 +14,7 @@ Hi👋 , I’m @daro1202, Full Stack Developer witb 5+ years of proven experienc
 🌱 I’m currently learning AI & MCU.
 
 💞️ Always Learning is fun.
+
 ✨ If you want to contact me, you can use Telegram with "daro1202"
 <!---
 daro1202/daro1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
