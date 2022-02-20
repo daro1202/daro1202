@@ -15,7 +15,7 @@ Hi👋 , I’m @daro1202, Full Stack Developer witb 5+ years of proven experienc
 
 💞️ Always Learning is fun.
 
-✨ If you want to contact me, you can find me with "daro1202" in Telegram or "live:.cid.3cc1759b14a5ae73" in Skype.
+✨ If you want to contact me, you can find me with 🔥@daro1202🔥 in Telegram or 🔥live:.cid.56d542cc306d43df🔥 in Skype.
 <!---
 daro1202/daro1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
