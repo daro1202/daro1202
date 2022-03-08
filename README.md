@@ -11,7 +11,7 @@ Hi👋 , I’m Full Stack Developer witb 6+ years of proven experiences, Project
 
 ⚡ Develop DAO, Defi / NFT projects and Marketplaces
 
-🌱 I’m currently learning AI & MCU.
+⚡ Multichain Support: Ethereum, Binance Smart Chain, Polygon, Kucoin, Algoland, Solana...
 
 💞️ Always Learning is fun.
 
