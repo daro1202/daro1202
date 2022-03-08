@@ -17,7 +17,7 @@ Hi👋 , I’m Full Stack Developer witb 6+ years of proven experiences, Project
 
 ✨ If you want to contact me, you can find me with 
     🔥@daro1202🔥 in Telegram
-    🔥live:.cid.56d542cc306d43df🔥 in Skype.
+    🔥live:.cid.8bb8aa7b1a456ad0🔥 in Skype.
     👋lee.crypto926@gmail.com👋
 <!---
 daro1202/daro1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
